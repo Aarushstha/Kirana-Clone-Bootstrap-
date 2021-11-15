@@ -1,0 +1,95 @@
+*{
+    font-family: Open Sans,sans-serif;
+}
+
+
+.image{
+    height: 45px;
+    margin-left: 50px;
+    margin-right: 5px;
+}
+
+.header {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    display: flex;
+    background-color:#c1282f;
+}
+
+p{
+    color: white;
+}
+
+.header>h3 {
+    color: white;
+    padding-left: 0;
+}
+.order{
+    margin-top: 2px;
+    margin-left: 10px;
+    line-height: 0.5;
+    flex-direction: column;
+    height: 50px;
+    color: white;
+    border-left: white;
+}
+
+a{
+    color: black;
+    font-size: 12px;
+}
+
+.menubar{
+justify-content: space-between;
+}
+
+.cards {
+    display: flex;
+    margin-left: 40px;
+}
+
+
+.slide {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:120px;
+
+}
+.products{
+    background-color: rgb(233, 232, 232);
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+
+.products>h5 {
+    margin-top: 15px;
+    margin-left: 20px;
+    color:#858585;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.foot {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.First {
+    margin-left: 20px;
+}
+
+.Second {
+    margin-left: 200px;
+}
+
+.Third {
+    margin-left: 200px;
+}
